@@ -1,0 +1,6 @@
+screeninfo
+platform
+uuid
+psutil
+socket
+GPUtil

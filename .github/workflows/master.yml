@@ -33,7 +33,7 @@ jobs:
 
       - name: Setup Git Configuration
         run: |
-          git config user.email "none"
+          git config user.email "nikachan.mail@gmail.com"
           git config user.name "Nika-chan"
 
       - name: Prepare Commit

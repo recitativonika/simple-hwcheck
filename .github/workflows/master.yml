@@ -21,7 +21,7 @@ jobs:
         run: echo "::debug::Triggered by ref = ${{github.ref}}"
 
       - name: Checkout Code
-        uses: actions/checkout@v3 # Latest version for optimized performance
+        uses: actions/checkout@v4 # Latest version for optimized performance
         with:
           persist-credentials: true # Ensures credentials are available for subsequent steps
           fetch-depth: 0 # Fetches all history for all branches and tags

@@ -34,7 +34,7 @@ jobs:
       - name: Setup Git Configuration
         run: |
           git config user.email "hidden"
-          git config user.name "Nika-chan"
+          git config user.name "recitativonika"
 
       - name: Prepare Commit
         run: |

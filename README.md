@@ -1,6 +1,6 @@
 # Simple HW Check
 
-Simple systeminfo Check with python
+Simple systeminfo check with python
 
 
 ## • Installation & how to run?
